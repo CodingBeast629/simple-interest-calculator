@@ -1,4 +1,4 @@
-# Simple Interest Calculator
+# Simple Interest Calclator
 
 This project is a simple bash script that calculates **simple interest**
 based on user input.
