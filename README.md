@@ -20,5 +20,5 @@ Run the script in a terminal and follow the prompts to enter the required values
 ## Author
 Taksh Pendap
 
-Minor typo fix applied
+Minor typo fix applied.
 
